@@ -1,0 +1,348 @@
+Added file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\workspace\AgeingTest\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\workspace\AgeingTest\bin\classes
+    [javac] ¾¯¸æ: [options] Ô´Öµ1.5ÒÑ¹ýÊ±, ½«ÔÚÎ´À´ËùÓÐ·¢ÐÐ°æÖÐÉ¾³ý
+    [javac] ¾¯¸æ: [options] Ä¿±êÖµ1.5ÒÑ¹ýÊ±, ½«ÔÚÎ´À´ËùÓÐ·¢ÐÐ°æÖÐÉ¾³ý
+    [javac] ¾¯¸æ: [options] ÒªÒþ²ØÓÐ¹ØÒÑ¹ýÊ±Ñ¡ÏîµÄ¾¯¸æ, ÇëÊ¹ÓÃ -Xlint:-options¡£
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	   ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	    ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	     ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	        ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	         ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	           ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	             ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	              ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                 ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                  ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                   ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                    ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:22: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 	 * ???????????????????
+    [javac] 	                     ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:29: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.out.println("-----------??????:"+dateFormat.format(data));
+    [javac] 		                               ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:29: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.out.println("-----------??????:"+dateFormat.format(data));
+    [javac] 		                                ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:29: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.out.println("-----------??????:"+dateFormat.format(data));
+    [javac] 		                                  ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:29: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.out.println("-----------??????:"+dateFormat.format(data));
+    [javac] 		                                   ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                               ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                                ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                                  ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                                   ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                                    ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:32: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 		System.err.println("-----------???????:"+dateFormat.format(data));	
+    [javac] 		                                     ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:41: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 			System.out.println("-----------IPTV????");
+    [javac] 			                                   ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:41: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 			System.out.println("-----------IPTV????");
+    [javac] 			                                    ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:41: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 			System.out.println("-----------IPTV????");
+    [javac] 			                                     ^
+    [javac] D:\workspace\AgeingTest\src\com\sumavision\cu\CutTable.java:41: ¾¯¸æ: ±àÂëUTF-8µÄ²»¿ÉÓ³Éä×Ö·û
+    [javac] 			System.out.println("-----------IPTV????");
+    [javac] 			                                      ^
+    [javac] 31 ¸ö¾¯¸æ
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+error: device not found
+error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\workspace\AgeingTest\bin\classes
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ô´Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ä¿ï¿½ï¿½Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Òªï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ñ¹ï¿½Ê±Ñ¡ï¿½ï¿½Ä¾ï¿½ï¿½ï¿½, ï¿½ï¿½Ê¹ï¿½ï¿½ -Xlint:-optionsï¿½ï¿½
+    [javac] 3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+error: device not found
+error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\workspace\AgeingTest\bin\classes
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ô´Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ä¿ï¿½ï¿½Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Òªï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ñ¹ï¿½Ê±Ñ¡ï¿½ï¿½Ä¾ï¿½ï¿½ï¿½, ï¿½ï¿½Ê¹ï¿½ï¿½ -Xlint:-optionsï¿½ï¿½
+    [javac] 3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+error: device not found
+error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\workspace\AgeingTest\bin\classes
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ô´Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ä¿ï¿½ï¿½Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Òªï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ñ¹ï¿½Ê±Ñ¡ï¿½ï¿½Ä¾ï¿½ï¿½ï¿½, ï¿½ï¿½Ê¹ï¿½ï¿½ -Xlint:-optionsï¿½ï¿½
+    [javac] 3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+error: device not found
+error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\workspace\AgeingTest\bin\classes
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ô´Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ä¿ï¿½ï¿½Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Òªï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ñ¹ï¿½Ê±Ñ¡ï¿½ï¿½Ä¾ï¿½ï¿½ï¿½, ï¿½ï¿½Ê¹ï¿½ï¿½ -Xlint:-optionsï¿½ï¿½
+    [javac] 3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+error: device not found
+error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\workspace\AgeingTest\bin\classes
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ô´Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Ä¿ï¿½ï¿½Öµ1.5ï¿½Ñ¹ï¿½Ê±, ï¿½ï¿½ï¿½ï¿½Î´ï¿½ï¿½ï¿½ï¿½ï¿½Ð·ï¿½ï¿½Ð°ï¿½ï¿½ï¿½É¾ï¿½ï¿½
+    [javac] ï¿½ï¿½ï¿½ï¿½: [options] Òªï¿½ï¿½ï¿½ï¿½ï¿½Ð¹ï¿½ï¿½Ñ¹ï¿½Ê±Ñ¡ï¿½ï¿½Ä¾ï¿½ï¿½ï¿½, ï¿½ï¿½Ê¹ï¿½ï¿½ -Xlint:-optionsï¿½ï¿½
+    [javac] 3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+error: device not found
+error: device not found
