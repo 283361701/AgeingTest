@@ -64,6 +64,17 @@ public class CutTable extends UiAutomatorTestCase {
 			UiDevice.getInstance().pressKeyCode(8);			
 		}
 	}
+	//上下页进行时移/直播切换
+	public void testLiveToSeekByUpDown(){
+		UiObject checkElement = new UiObject(new UiSelector()
+				.packageName("com.sumavision.iptv"));
+		while(checkElement.exists()){
+			UiDevice.getInstance().pressKeyCode(92);
+			sleep(8000);
+			UiDevice.getInstance().pressKeyCode(93);
+			sleep(8000);
+		}
+	}
 	private void initApp(String packageName) {
 		Base startApp = new Base();
 		startApp.adbLine("monkey -p "+packageName+" 1");

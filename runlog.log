@@ -346,3 +346,137 @@ BUILD SUCCESSFUL
 Total time: 1 second
 error: device not found
 error: device not found
+Updated file D:\workspace\AgeingTest\build.xml
+Buildfile: D:\workspace\AgeingTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\Program Files\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.1
+     [echo] Resolving Build Target for cuttable...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\workspace\AgeingTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\workspace\AgeingTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\workspace\AgeingTest\bin\cuttable.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+5 KB/s (5819 bytes in 0.957s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.sumavision.cu.CutTable:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCuTbleByCount
+
+INSTRUMENTATION_STATUS: class=com.sumavision.cu.CutTable
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----------切台开始:2015/01/01 09:15:05
+
+-----------IPTV闪退:2015/01/01 09:15:05
+
+java.io.IOException: Error running exec(). Command: [sync;killall, logcat] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:173)
+
+	at java.lang.Runtime.exec(Runtime.java:246)
+
+	at java.lang.Runtime.exec(Runtime.java:189)
+
+	at com.sumavision.cu.Base.adbLine(Base.java:13)
+
+	at com.sumavision.cu.CutTable.tearDown(CutTable.java:40)
+
+	at junit.framework.TestCase.runBare(TestCase.java:140)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:253)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 17 more
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCuTbleByCount
+
+INSTRUMENTATION_STATUS: class=com.sumavision.cu.CutTable
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 62.778
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
