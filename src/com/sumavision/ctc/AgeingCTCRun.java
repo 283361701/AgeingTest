@@ -10,5 +10,10 @@ public class AgeingCTCRun {
 	public static void main(String[] args) {
 		new UiAutomatorHelper(jar_name,test_class,test_nane,android_id);
 	}
-
+	public void setUp(){
+		
+	}
+	public void tearDown() {
+		
+	}
 }
