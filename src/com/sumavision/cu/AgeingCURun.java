@@ -10,9 +10,9 @@ import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 import com.sumavision.cu.UiAutomatorHelper;
 
 
-public class CutTable extends UiAutomatorTestCase {	
-	private static String jar_name="cuttable";
-	private static String test_class="com.sumavision.cu.CutTable";
+public class AgeingCURun extends UiAutomatorTestCase {	
+	private static String jar_name="AgeingCURun";
+	private static String test_class="com.sumavision.cu.AgeingCURun";
 	private static String test_nane="testCuTbleByCount";
 	private static String android_id="1";
 	Date date = new Date();
